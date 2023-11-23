@@ -22,6 +22,12 @@
 
 - Grab Riot Games
 
+- Microphone 15s record
+
+- Screenshot
+
+- Camera screenshot
+
     
 
                                                       ⬇️ Setup
