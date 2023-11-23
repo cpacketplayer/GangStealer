@@ -1,7 +1,4 @@
 <h1 align="center"> Gang Stealer </h1> 
-<p align= "center"> <kbd> <img  src="https://imgur.com/fbdX3Ss"width="420"> </kbd><br><br>
-
-
 
 
                                                       🤖 Features
@@ -33,8 +30,6 @@
 - first open `install.bat`
 
 - open `builder.bat`
-
-<div align="center"><img style="display: block; margin-left: auto; margin-right: auto; width: 65%;" src="https://i.imgur.com/0l34TBS.png"></img></div>
  
  
                                                       ⬇️ Setup (Manual)
